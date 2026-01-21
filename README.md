@@ -1,5 +1,5 @@
 # bayesian-machine-learning
-### A series of projects completed in a Master's level class ECE-474 Bayesian Machine Learning (Fall 2025).
+### Projects completed in ECE-474 Bayesian Machine Learning (Fall 2025).
 
 Machine learning of structural relationships among variables from empirical data.
 - Decision theory, Bayesian methods, Conjugate priors.
