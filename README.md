@@ -1,4 +1,4 @@
-# bayesian-machine-learning
+# Bayesian Machine Learning
 ### Projects completed in ECE-474 Bayesian Machine Learning (Fall 2025).
 
 Machine learning of structural relationships among variables from empirical data.
