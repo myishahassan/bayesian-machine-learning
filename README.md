@@ -1,5 +1,5 @@
 # bayesian-machine-learning
-### A series of projects completed in a Master's level machine learning class in Fall 2025.
+### A series of projects completed in a Master's level class ECE-474 Bayesian Machine Learning (Fall 2025).
 
 Machine learning of structural relationships among variables from empirical data.
 - Decision theory, Bayesian methods, Conjugate priors.
@@ -12,3 +12,5 @@ Machine learning of structural relationships among variables from empirical data
 - Sampling methods and Markov chain Monte Carlo.
 
 Textbook: https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+
+Instructor: Sam Keene
